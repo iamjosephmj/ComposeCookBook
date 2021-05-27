@@ -51,7 +51,7 @@ List & Layouts             |  Widgets and building blocks| Animations | Theme
 
 Flinger                    | 
 :-------------------------:|
-![](https://media.giphy.com/media/kLvW72nuWHSSYkxV5F/giphy.gif) |
+![](https://media.giphy.com/media/dMpB9efkrEoY9jCXFr/giphy.gif) |
 
 ### Demo UI
 Spotify             |  Instagram Demo | Twitter, Gmail, Youtube                       | Profile
