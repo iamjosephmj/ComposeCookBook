@@ -47,8 +47,7 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
 ## Screens
 List & Layouts             |  Widgets and building blocks| Animations | Theme | Flinger
 :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:| :-------------------------:
-![](https://media.giphy.com/media/WOlo2cTDdjGkgdAJQK/giphy.gif)  |  ![](https://media.giphy.com/media/RkEyxCn43aX1MoIdcx/giphy.gif) | ![](https://media.giphy.com/media/kPt0nCCWAcahhJsJh6/giphy.gif) | ![](https://media.giphy.com/media/kPt0nCCWAcahhJsJh6/giphy.gif) 
-![](https://media.giphy.com/media/y7VEAcNAZgYqNXPTS9/giphy.gif)
+![](https://media.giphy.com/media/WOlo2cTDdjGkgdAJQK/giphy.gif)  |  ![](https://media.giphy.com/media/RkEyxCn43aX1MoIdcx/giphy.gif) | ![](https://media.giphy.com/media/pZfwwwOlKQtiyJFPr2/giphy.gif) | ![](https://media.giphy.com/media/y7VEAcNAZgYqNXPTS9/giphy.gif) | ![](https://media.giphy.com/media/y7VEAcNAZgYqNXPTS9/giphy.gif)
 
 ### Demo UI
 Spotify             |  Instagram Demo | Twitter, Gmail, Youtube                       | Profile
